@@ -1,1 +1,3 @@
 # MY AMAZING PROJECT!
+
+v1.0
